@@ -14,8 +14,8 @@ Born in Brazil and living in the United States for over 20 years, I speak 3 lang
 **Background in:** Python, Machine Learning.
 
 **Links:**
-* [LinkedIn](https://https://www.linkedin.com/in/marcelo-chaves-9a5920261/)
-* [Medium](https://https://medium.com/@marcelochavesoficial)
+* [LinkedIn](https://www.linkedin.com/in/marcelo-chaves-9a5920261/)
+* [Medium](https://medium.com/@marcelochavesoficial)
 
 
 ## Projects:

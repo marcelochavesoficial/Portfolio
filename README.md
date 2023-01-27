@@ -20,7 +20,7 @@ Born in Brazil and living in the United States for over 20 years, I speak 3 lang
 
 ## Projects:
 
-* **How to Use Histogram for Data Science:** https://bit.ly/2L2cMwy
+* **Analyzing Airbnb Data:** https://bit.ly/3HaTwsD
 * **How to Implement Linear Regression with Python:** https://bit.ly/2Li5pzY
 * **How to Handle Missing Data with Pandas:** https://bit.ly/31KWSMN
 * **XGBoost: Learn this Machine Learning Algorithm in Python:** https://bit.ly/2UbRhws

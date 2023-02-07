@@ -22,7 +22,7 @@ Born in Brazil and living in the United States for over 20 years, I speak 3 lang
 
 * **Analyzing Airbnb Data:** https://bit.ly/3HaTwsD
 * **Introduction to Matplotlib:** https://bit.ly/3Js3BUP
-* **How to Handle Missing Data with Pandas:** https://bit.ly/31KWSMN
+* **Line Charts using Matplotlib:** https://bit.ly/3Yod9o0
 * **XGBoost: Learn this Machine Learning Algorithm in Python:** https://bit.ly/2UbRhws
 * **How to Create a Wordcloud in Python:** https://bit.ly/2OxsphM
 * **How to deal with unbalanced data:** https://bit.ly/2ZlaNsV

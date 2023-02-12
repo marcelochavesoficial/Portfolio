@@ -24,7 +24,7 @@ Born in Brazil and living in the United States for over 20 years, I speak 3 lang
 * **Introduction to Matplotlib:** https://bit.ly/3Js3BUP
 * **Line Charts using Matplotlib:** https://bit.ly/3Yod9o0
 * **Tips for Customizing Line Charts:** https://bit.ly/3XoJQ3Q
-* **How to Create a Wordcloud in Python:** https://bit.ly/2OxsphM
+* **Histogram:** https://bit.ly/40NOhbx
 * **How to deal with unbalanced data:** https://bit.ly/2ZlaNsV
 
 ---

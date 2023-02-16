@@ -25,6 +25,6 @@ Born in Brazil and living in the United States for over 20 years, I speak 3 lang
 * **Line Charts using Matplotlib:** https://bit.ly/3Yod9o0
 * **Tips for Customizing Line Charts:** https://bit.ly/3XoJQ3Q
 * **Histogram:** https://bit.ly/40NOhbx
-* **How to deal with unbalanced data:** https://bit.ly/2ZlaNsV
+* **Bar Charts:** https://bit.ly/3lBXSC6
 
 ---

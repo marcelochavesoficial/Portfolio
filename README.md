@@ -26,5 +26,5 @@ Born in Brazil and living in the United States for over 20 years, I speak 3 lang
 * **Tips for Customizing Line Charts:** https://bit.ly/3XoJQ3Q
 * **Histogram:** https://bit.ly/40NOhbx
 * **Bar Charts:** https://bit.ly/3lBXSC6
-
+* **Pie Charts:** https://bit.ly/3KGgPxV
 ---

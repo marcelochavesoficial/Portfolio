@@ -27,4 +27,5 @@ Born in Brazil and living in the United States for over 20 years, I speak 3 lang
 * **Histogram:** https://bit.ly/40NOhbx
 * **Bar Charts:** https://bit.ly/3lBXSC6
 * **Pie Charts:** https://bit.ly/3KGgPxV
-* **Scatter Plot:** https://bit.ly/3ybvKsB
+* **Scatter Chart:** https://bit.ly/3ybvKsB
+* **Violin Chart:** https://bit.ly/3T375jA

@@ -29,3 +29,4 @@ Born in Brazil and living in the United States for over 20 years, I speak 3 lang
 * **Pie Charts:** https://bit.ly/3KGgPxV
 * **Scatter Chart:** https://bit.ly/3ybvKsB
 * **Violin Chart:** https://bit.ly/3T375jA
+* **Waffle Chart:** https://bit.ly/3UFppjF
